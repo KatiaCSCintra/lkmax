@@ -1,3 +1,3 @@
-# Whaticket LKMAX
+# Backend do Whaticket
 
-Instalação simplificada com Docker.
+Aqui fica o código do servidor.
