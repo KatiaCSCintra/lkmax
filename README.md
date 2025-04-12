@@ -1,3 +1,3 @@
-# Backend do Whaticket
+# Frontend do Whaticket
 
-Aqui fica o código do servidor.
+Aqui fica o código da interface.
